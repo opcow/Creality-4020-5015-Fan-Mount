@@ -16,6 +16,7 @@ Parts needed:
 * The original 4 part cooling fan screws or 4 M2 socket cap screws. I believe the stock screws are 2 8mm at the top and 2 10mm at the bottom (where the duct mounts).
 
 Parts to print:
+
 * plenum_v2.stl
 * bracket_left_v2.stl
 * bracket_top_v2.stl
