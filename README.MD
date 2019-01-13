@@ -1,7 +1,10 @@
 # Ender 3 4010/4020/5015 Fan Mount and Duct
+![image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/view_1.png)
+
 ---
 
 ### Main Cooling Fan Mount
+![plenum image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/plenum.png)
 
 This part is based on the stock fan cover, but allows the use of a 4020 axial fan on Ender 3 and maybe other Creality printers for heatsink cooling. If using a 4020 fan it must mount on the outside. A 4010 fan should work mounted inside, but I haven't tried it. You can use the stock part cooler or the 5015 bracket and duct with this part (see below).
 
@@ -27,10 +30,11 @@ Assembly:
 5. Mount the fan to the fan housing. Make sure it is oriented so that it blows inward.
 6. Mount the stock part cooling fan (don't forget its 90° duct) or the 5015 fan duct to the right side of the fan housing.
 7. Mount the fan housing using M3 screws.
+
 ---
 
 ### 5015 Bracket and Duct
-
+![duct image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/duct.png)
 This part should also work with the stock metal fan cover. 
 
 Parts needed:
