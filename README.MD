@@ -7,7 +7,7 @@ This part is based on the stock fan cover, but allows the use of a 4020 axial fa
 
 Parts needed:
 * The stock heat sink cooling fan or another 4010 or 4020 axial fan. (The Ender 3 fans are 24v.)
-* 2-4 M4 x 25mm screws for mounting the 4020 fan. (I only use 2.)
+* 2-4 M4 x 15-25mm screws depending on your fan size for mounting the fan. (I only use 2.)
 * 4 M3 x 8-10MM screws.
 * The original 2 M3 fan cover mounting screws or 2 more M3 x 6mm.
 * The original 4 part cooling fan screws or 4 M2 socket cap screws. I believe the stock screws are 2 8mm at the top and 2 10mm at the bottom (where the duct mounts).
@@ -24,7 +24,7 @@ Assembly:
 2. Mount the left bracket to the fan housing using the 2 stock M3 cover mounting screws or your own M3 screws.
 3. If the screw holes are tight you may get bulges around them where the housing mounts to the metal bracket. If so, trim them and any other bumps using a razor of a file, so that the housing will mount flush with the metal plate.
 4. Do the following 2 steps in whatever order works best for you. I Installed an inline connector for my 4020 fan, so I install it first and then plug it in as the last step.
-5. Mount the 4020 fan into the fan housing. Make sure it is oriented so that it blows inward.
+5. Mount the fan to the fan housing. Make sure it is oriented so that it blows inward.
 6. Mount the stock part cooling fan (don't forget its 90° duct) or the 5015 fan duct to the right side of the fan housing.
 7. Mount the fan housing using M3 screws.
 ---
