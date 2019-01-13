@@ -12,7 +12,7 @@ Parts needed:
 * The stock heat sink cooling fan or another 4010 or 4020 axial fan. (The Ender 3 fans are 24v.)
 * 2-4 M4 x 15-25mm screws depending on your fan size for mounting the fan. (I only use 2.)
 * 4 M3 x 8-10MM screws.
-* The original 2 M3 fan cover mounting screws or 2 more M3 x 6mm.
+* The original 2 M3 fan cover mounting screws or 2 more M3 x 6mm. If using a socket cap screw for the top bracket slot, a small washer may be needed.
 * The original 4 part cooling fan screws or 4 M2 socket cap screws. I believe the stock screws are 2 8mm at the top and 2 10mm at the bottom (where the duct mounts).
 
 Parts to print:
