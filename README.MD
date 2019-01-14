@@ -1,3 +1,9 @@
+<style>
+.indented {
+  padding-left: 20pt;
+  padding-right: 20pt;
+}
+</style>
 # Ender 3 4010/4020/5015 Fan Mount and Duct
 ![image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/view_1.png)
 
@@ -17,10 +23,11 @@ Parts needed:
 
 Parts to print:
 
-*  plenum_v2.stl  
-*  bracket_left_v2.stl  
-*  bracket_top_v2.stl or bracket_top_no_slot_v2.stl  
-  
+<ul>
+<li>plenum_v2.stl</li>
+<li>bracket_left_v2.stl</li>
+<li>bracket_top_v2.stl or bracket_top_no_slot_v2.stl</li>
+</ul>
   I designed this in multiple parts to avoid the need for supports. Print with the fan intake hole down. Be sure to print the left bracket with a flat side down. The non-slotted top bracket can be substitutted for the slotted version. The slotted version provides a bit of adjustment if the fan mount tilt.
 
 Assembly:
@@ -44,9 +51,10 @@ Parts needed:
 * 1 M3 x 6-8mm screw if using the optional bracket.
 
 Parts to print:
-* 5015_duct_v2.stl
-* duct_bracket_v2.stl
-
+<ul>
+<li>5015_duct_v2.stl</li>
+<li>duct_bracket_v2.stl</li>
+</ul>
   No supports are needed for the main part. The optional small bracket should be printed with supports and oriented with the slot facing upwards.
 
 Assembly:
@@ -56,6 +64,6 @@ Assembly:
 
 Optional:
 
-There is an optional bracket that hooks to the hot end mounting plate. It gives the entire assembly a bit more stiffness. It won't work with the stock metal fan housing and would probably offer little to no benefit anyway.
+<p class="indented">There is an optional bracket that hooks to the hot end mounting plate. It gives the entire assembly a bit more stiffness. It won't work with the stock metal fan housing and would probably offer little to no benefit anyway.
 
 ---
