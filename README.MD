@@ -1,9 +1,3 @@
-<style>
-.indented {
-  padding-left: 20pt;
-  padding-right: 20pt;
-}
-</style>
 # Ender 3 4010/4020/5015 Fan Mount and Duct
 ![image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/view_1.png)
 
