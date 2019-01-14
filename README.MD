@@ -17,9 +17,9 @@ Parts needed:
 
 Parts to print:
 
-* plenum_v2.stl
-* bracket_left_v2.stl
-* bracket_top_v2.stl or bracket_top_no_slot_v2.stl
+*  plenum_v2.stl  
+*  bracket_left_v2.stl  
+*  bracket_top_v2.stl or bracket_top_no_slot_v2.stl  
   
   I designed this in multiple parts to avoid the need for supports. Print with the fan intake hole down. Be sure to print the left bracket with a flat side down. The non-slotted top bracket can be substitutted for the slotted version. The slotted version provides a bit of adjustment if the fan mount tilt.
 
