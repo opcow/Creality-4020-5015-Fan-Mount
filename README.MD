@@ -46,7 +46,8 @@ Parts needed:
 
 Parts to print:
 <ul>
-<li>5015_duct_v2.stl</li>
+<li>5015_duct_v2.stl or 5015_duct_v3.stl</li>
+<li>5015_lower_duct_v3.stl if using duct v3</li>
 <li>duct_bracket_v2.stl</li>
 </ul>
   No supports are needed for the main part. The optional small bracket should be printed with supports and oriented with the slot facing upwards.
@@ -58,6 +59,13 @@ Assembly:
 
 Optional:
 
-<p class="indented">There is an optional bracket that hooks to the hot end mounting plate. It gives the entire assembly a bit more stiffness. It won't work with the stock metal fan housing and would probably offer little to no benefit anyway.
+There is an optional bracket that hooks to the hot end mounting plate. It gives the entire assembly a bit more stiffness. It won't work with the stock metal fan housing and would probably offer little to no benefit anyway.
+
+---
+### Version 3 Duct
+
+![duct version 3 image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/duct_v3.png)
+
+Version 3 of the 5015 mount and duct uses a separate lower duct that snaps in using a dovetail joint. It may provide better airflow. Step files are included if you'd like to make your own modifications.
 
 ---
