@@ -57,9 +57,12 @@ Assembly:
 2. Mount the duct to the right side of the main cooling fan box using 3 M2 screws.
 3. Mount the entire assembly to the printer.
 
-Optional:
+### Optional Items
+![duct image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/view_1.png)
 
-There is an optional bracket that hooks to the hot end mounting plate. It gives the entire assembly a bit more stiffness. It won't work with the stock metal fan housing and would probably offer little to no benefit anyway.
+ duct_bracket_v2.stl is an optional bracket that hooks to the hot end mounting plate. It gives the entire assembly a bit more stiffness. It won't work with the stock metal fan housing and would probably offer little to no benefit anyway.
+
+ 40_intake.stl and 50_intake.stl are optional intake ducts. They may reduce the amount of random plastic scrap getting sucked into the fans.
 
 ---
 ### Version 3 Duct
