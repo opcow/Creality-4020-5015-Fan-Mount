@@ -1,8 +1,6 @@
 # Ender 3 4010/4020/5015 Fan Mount and Duct
-![image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/view_1.png)
 
 ---
-
 ### Main Cooling Fan Mount
 ![plenum image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/plenum.png)
 
@@ -57,6 +55,7 @@ Assembly:
 2. Mount the duct to the right side of the main cooling fan box using 3 M2 screws.
 3. Mount the entire assembly to the printer.
 
+---
 ### Optional Items
 ![duct image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/view_1.png)
 
