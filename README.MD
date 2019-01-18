@@ -57,7 +57,7 @@ Assembly:
 
 ---
 ### Optional Items
-![duct image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/view_1.png)
+![duct image](https://raw.githubusercontent.com/opcow/Creality-4020-5015-Fan-Mount/master/optionals.png)
 
  duct_bracket_v2.stl is an optional bracket that hooks to the hot end mounting plate. It gives the entire assembly a bit more stiffness. It won't work with the stock metal fan housing and would probably offer little to no benefit anyway.
 
